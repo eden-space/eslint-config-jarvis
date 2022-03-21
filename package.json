@@ -57,8 +57,7 @@
     "emotion",
     "a11y",
     "import",
-    "promise",
-    "async-await"
+    "promise"
   ],
   "license": "MIT"
 }
