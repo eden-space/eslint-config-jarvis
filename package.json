@@ -46,18 +46,18 @@
     "typescript": "^4.6.2"
   },
   "keywords": [
-    "eslint",
     "eslint-config",
+    "eslint",
+    "typescript",
     "airbnb",
     "prettier",
-    "typescript",
-    "browser-compatibility",
-    "jest",
-    "testing-library",
-    "emotion",
     "a11y",
     "import",
-    "promise"
+    "promise",
+    "unicorn",
+    "react",
+    "react-hooks",
+    "eslint-plugin"
   ],
   "license": "MIT"
 }
