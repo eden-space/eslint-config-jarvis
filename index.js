@@ -32,7 +32,7 @@ module.exports = {
     'unicorn',
     'jsx-a11y',
     'promise',
-    'import'
+    'import',
   ],
   extends: [
     'airbnb',
